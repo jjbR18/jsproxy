@@ -7,7 +7,7 @@
 
 [查看更多](changelogs)
 
-<a href="https://repl.it/github/alist-org/alist-replit">test</a>
+<a href="https://repl.it/github/jjbR18/jsproxy">replit</a>
 
 
 # 安装
